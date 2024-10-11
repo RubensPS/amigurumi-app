@@ -3,7 +3,7 @@ GUIA PARA INSTALAÇÃO E EXECUÇÃO
 1. Clone o repositório na sua máquina: git clone https://github.com/RubensPS/amigurumi-app.git
 2. Instale as dependências do projeto: npm install
 3. Instale o EAS client: npm install -g eas-cli
-4. Inicialize o EAS no projeto eas build:configure
+4. Inicialize o EAS no projeto: eas build:configure
 5. Realize a autenticação: eas login
 6. Crie o build: eas build --platform android --profile production --clear-cache
 7. Aguarde a execução. Se desejar, acompanhe a mesmo pelo expo.io com a conta que realizou a autenticação
