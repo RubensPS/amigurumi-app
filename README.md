@@ -1,4 +1,5 @@
 GUIA PARA INSTALAÇÃO E EXECUÇÃO
+(Pode ser utilizado tanto o android studio quanto o vscode)
 
 1. Clone o repositório na sua máquina: git clone https://github.com/RubensPS/amigurumi-app.git
 2. Instale as dependências do projeto: npm install
